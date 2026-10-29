@@ -97,17 +97,6 @@ Projeto desenvolvido com Java, com foco no cadastro e gerenciamento de times, at
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pedroamorimbr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub de Pedro Amorim"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroamorimbr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas"/>
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=pedroamorimbr&theme=tokyonight&hide_border=true" alt="Sequência de contribuições no GitHub"/>
 
 </div>
 
@@ -116,9 +105,6 @@ Projeto desenvolvido com Java, com foco no cadastro e gerenciamento de times, at
 ## 🏆 Conquistas e evolução
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pedroamorimbr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="Conquistas do GitHub"/>
-
 </div>
 
 Minha jornada como desenvolvedor é construída com estudo, prática e dedicação. Cada repositório representa uma oportunidade de experimentar ideias, melhorar minhas habilidades e aprender algo novo.
